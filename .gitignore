@@ -1,0 +1,9 @@
+devopswebapp/bin/
+devopswebapp.Tests/obj/
+devopswebapp.Tests/bin/
+devopswebapp/Publish/
+docker-compose.debug.yml
+docker-compose.yml
+.dockerignore
+.vscode
+devopswebapp/.vscode/
