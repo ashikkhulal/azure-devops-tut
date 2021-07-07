@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hr4/KGYodcVffsSunm+Ntg22PT1YZEK3r5wb/ymg8SW6pBhhK1XtTVMK4MntFAPs6Rr+A5/GDlUjpG+2oz1aw==",
+  "dgSpecHash": "GAvK9GzF8Hf8dI21FD1Xx9GKAjcRIRwXJtdHJrrwJx7RmSgZFygyNwTJC8DLUKrNjqkFDQKxbi6yDLFS0UM9qQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ashik\\Desktop\\Projects\\devops-course\\azure-devops-tut\\devopswebapp\\devopswebapp.csproj",
+  "projectFilePath": "C:\\Users\\ashik\\Desktop\\Projects\\azure-labs\\devops-course\\demo-dotnet-cicd\\devopswebapp\\devopswebapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
